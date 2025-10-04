@@ -20,6 +20,39 @@
 
 <div align="center">
   <h2>🚀 About Me</h2>
+  <p>
+    💻 Passionate about building impactful real-world solutions<br>
+    🌱 Always exploring new technologies<br>
+    🧩 Interests: Web Development, Problem Solving, Innovation<br>
+    🎯 Current Focus: Creating meaningful applications<br>
+    🤝 Open to: Collaboration, New Opportunities, Learning
+  </p>
+</div>
+
+<div align="center">
+  <h2>⚡ GitHub Stats</h2>
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=Adelodunpeter25&show_icons=true&theme=radical&hide_title=true&count_private=true" alt="GitHub Stats" />
+  </p>
+  <p>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adelodunpeter25&theme=radical" alt="GitHub Streak" />
+  </p>
+  <p>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adelodunpeter25&theme=react-dark" alt="Contribution Graph" />
+  </p>
+</div>
+
+<div align="center">
+  <h2>📫 Let's Connect</h2>
+  
+  🌐 [Portfolio](https://adelodunpeter.vercel.app/)<br>
+  📧 [Email](mailto:adelodunpeter69@gmail.com)
+</div>    <img src="https://img.shields.io/badge/Repositories-00ADD8?style=for-the-badge&logo=github" alt="Repositories" />
+  </a>
+</div>
+
+<div align="center">
+  <h2>🚀 About Me</h2>
   
 
   const adelodunPeter = {
