@@ -21,17 +21,9 @@
 
 ---
 
-## 📦 Public Repositories
-
-**3**
-
----
-
 ## 📫 Connect with Me
 
 - **Portfolio:** [adelodunpeter.vercel.app](https://adelodunpeter.vercel.app/)
 - **Email:** adelodunpeter69@gmail.com
 
 ---
-
-Let me know if you’d like to add a bio, featured projects, or a skills section!
