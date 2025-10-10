@@ -1,4 +1,4 @@
-# Hello, I'm Adelodun Peter 👋
+# Hello, I'm Adelodun Peter
 
 I love creating things that solve real problems and make life easier.  
 If it can be improved, I **build it**.  
