@@ -1,3 +1,5 @@
+<a href="https://app.daily.dev/adelodunpeter"><img src="https://api.daily.dev/devcards/v2/moUMgl6eZIRY1FALm0rLr.png?type=wide&r=3su" width="652" alt="Adelodun Peter's Dev Card"/></a>
+
 # Hello, I'm Adelodun Peter 👋
 
 I love creating things that solve real problems and make life easier.  
